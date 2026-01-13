@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         AWS_DEFAULT_REGION = 'us-east-1'
-        BUCKET_NAME = 'jenkins-iam-s3-bucket-123456'
+        BUCKET_NAME = 'jenkins-iam-s3-bucket-123456655'
     }
 
     stages {
